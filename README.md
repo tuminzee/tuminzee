@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I am Tumin. I create things with tech. Visit [tuminzee.me](https://tuminzee.me) for more details.
 
 <!--
 **tuminzee/tuminzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
